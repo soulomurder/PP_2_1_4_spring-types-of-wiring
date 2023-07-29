@@ -2,9 +2,9 @@ package koschei.models;
 
 public class Island2 {
 
-    private Wood3 wood;
+    private Woods wood;
 
-    public Island2(Wood3 wood) {
+    public Island2(Woods wood) {
         this.wood = wood;
     }
 
